@@ -1,4 +1,4 @@
-### Olá eu sou a Fabricio minowa 👋
+### Olá eu sou o Fabricio minowa 👋
 
 
 
