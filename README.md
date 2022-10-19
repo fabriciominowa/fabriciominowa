@@ -22,16 +22,37 @@
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
+
   
-  <div> 
-  
- <div>
- 
- <h1> ola</h1>
- </div>
- 
+
   <a href = "mailto:fabriciominowa12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabr%C3%ADciomoraesminowa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
+   <div>
+ 
+<div align="left">
+  <h1> Formação</h1>
+  <p>  <img align="center" alt="tecnologo-formação" height="20" width="20" src="https://i.promobit.com.br/268/687551020216058046662025179492.png"> -- Formado em Tecnologo em jogo digitais </p>
+  
+<p>
+<img  align="center" alt="Pos-atom" height="20" wixth="20" src="https://anhembimorumbi.digital//franquias/2/7063668/editor-html/9481741.png" /> -- Cursando pós- graduação em Desenvolvimento de metaverso</p>
+  <p><img lign="center" alt="Inglês-bootstrap" height="30" wixth="40" src="https://uniaocultural.org.br/wp-content/uploads/2021/12/Logo_UniaoCultural-02-1024x332.png"> -- Curso de idioma (Inglês)</p>
+
+
+  
+</div>
+  
+  <div align="left">
+  <h1> Jogos</h1>
+  <img align="center" alt="tecnologo-formação" height="90" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLujf1L7hBnVnmSelLtQBrHI1aAWOwCHjQA&usqp=CAU"> 
+  
+
+<img  align="center" alt="Pos-atom" height="90" wixth="90" src="https://media.sketchfab.com/models/243f544627214afeb17535ce53ca75fa/thumbnails/220b50db33464ae5aa902a30704bb92f/1024x576.jpeg" /> 
+
+  <img lign="center" alt="fabriciominowa-bootstrap" height="90" width="90" src="https://user-images.githubusercontent.com/53982421/196571439-7e7eaecd-18f2-48c2-aa2c-74b7c00aa993.png" />
+
+</div>
+
+
