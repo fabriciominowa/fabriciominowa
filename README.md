@@ -46,12 +46,12 @@
   
   <div align="left">
   <h1> Jogos</h1>
-  <img align="center" alt="tecnologo-formação" height="90" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLujf1L7hBnVnmSelLtQBrHI1aAWOwCHjQA&usqp=CAU"> 
+  <img align="center" alt="tecnologo-formação" height="100" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLujf1L7hBnVnmSelLtQBrHI1aAWOwCHjQA&usqp=CAU"> 
   
 
-<img  align="center" alt="Pos-atom" height="90" wixth="90" src="https://media.sketchfab.com/models/243f544627214afeb17535ce53ca75fa/thumbnails/220b50db33464ae5aa902a30704bb92f/1024x576.jpeg" /> 
+<img  align="center" alt="Pos-atom" height="100" wixth="200" src="https://media.sketchfab.com/models/243f544627214afeb17535ce53ca75fa/thumbnails/220b50db33464ae5aa902a30704bb92f/1024x576.jpeg" /> 
 
-  <img lign="center" alt="fabriciominowa-bootstrap" height="90" width="90" src="https://user-images.githubusercontent.com/53982421/196571439-7e7eaecd-18f2-48c2-aa2c-74b7c00aa993.png" />
+  
 
 </div>
 
