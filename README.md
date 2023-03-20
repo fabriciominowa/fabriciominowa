@@ -51,8 +51,8 @@
 
 <img  align="center" alt="Pos-atom" height="100" wixth="200" src="https://media.sketchfab.com/models/243f544627214afeb17535ce53ca75fa/thumbnails/220b50db33464ae5aa902a30704bb92f/1024x576.jpeg" /> 
 
-  
+  <img  align="center" alt="Pos-atom" height="100" wixth="200" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png
+" /> 
+
 
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0980c454-4059-40de-818c-1bc98bb5350a" data-share-badge-host="https://www.credly.com"></div>
