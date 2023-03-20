@@ -49,10 +49,6 @@
   <img align="center" alt="tecnologo-formação" height="100" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLujf1L7hBnVnmSelLtQBrHI1aAWOwCHjQA&usqp=CAU"> 
   
 
-<img  align="center" alt="Pos-atom" height="100" wixth="200" src="https://media.sketchfab.com/models/243f544627214afeb17535ce53ca75fa/thumbnails/220b50db33464ae5aa902a30704bb92f/1024x576.jpeg" /> 
-
-  <img  align="center" alt="Pos-atom" height="100" wixth="200" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png
-" /> 
 
 
 </div>
