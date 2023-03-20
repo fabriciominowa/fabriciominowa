@@ -55,4 +55,4 @@
 
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0980c454-4059-40de-818c-1bc98bb5350a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0980c454-4059-40de-818c-1bc98bb5350a" data-share-badge-host="https://www.credly.com"></div>
