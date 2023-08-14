@@ -34,7 +34,7 @@
  
 <div align="left">
   <h1> Formação</h1>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbc5b722-8940-462f-9053-1243357d14ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbc5b722-8940-462f-9053-1243357d14ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="[//cdn.credly.com/assets/utilities/embed.js](https://www.credly.com/badges/cbc5b722-8940-462f-9053-1243357d14ae/public_url)"></script>  
 <p>
 <img  align="center" alt="Pos-atom" height="20" wixth="20" src="[https://anhembimorumbi.digital//franquias/2/7063668/editor-html/9481741.png]https://img2.gratispng.com/20180622/spe/kisspng-anhembi-morumbi-university-student-laureate-intern-helicoptero-5b2ca6d6d03fb9.353267151529652950853.jpg" /> -- Cursando pós- graduação em Desenvolvimento de metaverso</p>
   <p><img lign="center" alt="Inglês-bootstrap" height="30" wixth="40" src="https://uniaocultural.org.br/wp-content/uploads/2021/12/Logo_UniaoCultural-02-1024x332.png"> -- Curso de idioma (Inglês)</p>
