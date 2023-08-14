@@ -38,7 +38,7 @@
 
 
 <p>
-<img  align="center" alt="Pos-atom" height="20" wixth="20" src="[https://anhembimorumbi.digital//franquias/2/7063668/editor-html/9481741.png]https://img2.gratispng.com/20180622/spe/kisspng-anhembi-morumbi-university-student-laureate-intern-helicoptero-5b2ca6d6d03fb9.353267151529652950853.jpg" /> -- Cursando pós- graduação em Desenvolvimento de metaverso</p>
+<img  align="center" alt="Pos-atom" height="20" wixth="20" src="https://anhembimorumbi.digital//franquias/2/7063668/editor-html/9481741.png]https://img2.gratispng.com/20180622/spe/kisspng-anhembi-morumbi-university-student-laureate-intern-helicoptero-5b2ca6d6d03fb9.353267151529652950853.jpg" /> -- Cursando pós- graduação em Desenvolvimento de metaverso</p>
   <p><img lign="center" alt="Inglês-bootstrap" height="30" wixth="40" src="https://uniaocultural.org.br/wp-content/uploads/2021/12/Logo_UniaoCultural-02-1024x332.png"> -- Curso de idioma (Inglês)</p>
 
 
