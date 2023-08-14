@@ -34,7 +34,7 @@
  
 <div align="left">
   <h1> Formação</h1>
-  <p><img lign="center" alt="Inglês-bootstrap" height="30" wixth="40" src="https://seeklogo.com/images/F/fiap-logo-8E313B4183-seeklogo.com.gif"> 
+  <p><img lign="center" alt="Inglês-bootstrap" height="30" wixth="40" src="https://seeklogo.com/images/F/fiap-logo-8E313B4183-seeklogo.com.gif"> Formado em desenvolvimento de jogos digitais pela fiap
 
 <p>
 <img  align="center" alt="Pos-atom" height="20" wixth="20" src="https://anhembimorumbi.digital//franquias/2/7063668/editor-html/9481741.png]https://img2.gratispng.com/20180622/spe/kisspng-anhembi-morumbi-university-student-laureate-intern-helicoptero-5b2ca6d6d03fb9.353267151529652950853.jpg" /> -- Cursando pós- graduação em Desenvolvimento de metaverso</p>
