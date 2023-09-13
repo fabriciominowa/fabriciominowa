@@ -56,15 +56,7 @@
    <h1> Certifcações</h1>
   <img alt="Inglês-bootstrap" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> 
    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" /> 
-    <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D">
-        <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D"> 
-                <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D"> 
-                                <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D"> 
-
-
-
-
-
-
+    <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png">
+     
 
 </div>
