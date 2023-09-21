@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/fabriciominowa">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&layout=donut-vertical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&layout=donut-vertical"/>
 
 </div>
 
