@@ -51,7 +51,7 @@
  <p> 🎮 Formado em jogos digitais pela fiap</p>
  
 <p>
-🥽 Cursando pós- graduação em Desenvolvimento de metaverso pela anhembi morumbi</p>
+🥽  pós-graduado em Desenvolvimento de metaverso pela anhembi morumbi</p>
   <p> 🇺🇸 -- Curso de idioma (Inglês) na União cultural</p>
   </div>
  <div align="center" style="display: inline_block"><br>
