@@ -58,7 +58,10 @@
    <h1> Certifcações</h1>
   <img alt="Inglês-bootstrap" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> 
    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" /> 
-    <img alt="Inglês-bootstrap" height="100" wixth="100" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png">
+    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" /> 
+    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" /> 
+    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /> 
+    <img   alt="Pos-atom" height="150" wixth="150" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" /> 
      
 
 </div>
