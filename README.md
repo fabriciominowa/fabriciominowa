@@ -15,7 +15,7 @@
 
   <div align="center" style="display: inline_block"><br>
 
-  <h1> Informations</h1>
+  <h1> STATS</h1>
    <a href="https://github.com/fabriciominowa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
 
@@ -70,8 +70,10 @@
 
 <p>🇺🇸 -- English b2</p>
   </div>
+
+  
  <div align="center" style="display: inline_block"><br>
-   <h1> Certifcações</h1>
+   <h1> certificate</h1>
   <img alt="Inglês-bootstrap" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> 
    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" /> 
     <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" /> 
