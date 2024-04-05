@@ -1,14 +1,31 @@
-### Olá eu sou o Fabricio minowa 👋
+
+  <div align="left" style="display: inline_block"><br>
+
+  <h1 align="center"> About</h1>
+ Hello, I'm Fabricio, a tireless creator of digital experiences and passionate about technology! <br><br>
+
+💻 With expertise in web development and a focus on front-end, I bring to the table skills in Angular and React, building incredible interfaces that captivate and engage users.
+
+🌐 Additionally, I'm an explorer of the vast horizons of REST APIs, connecting systems and unlocking new possibilities for the web.
+
+🎮 But I don't stop there! My heart beats strongly for the world of gaming and virtual realities. In Unity, with C#, I create magical worlds and immersive experiences that transcend imagination. And in Roblox Studio, I dive into the magic of creation with Lua, building universes where dreams come true.
+🛠️ In the trenches of development, I master continuous integration and deployment tools (CI/CD) like a conductor leading a symphony of code. GitHub Actions is my magic wand, transforming lines of code into digital masterpieces.
+</div>
 
 
+  <div align="center" style="display: inline_block"><br>
 
-<div align="center">
-  <a href="https://github.com/fabriciominowa">
+  <h1> Informations</h1>
+   <a href="https://github.com/fabriciominowa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&hide_progress=true"/>
-
 </div>
+
+
+
+
+
 
 
 
@@ -47,12 +64,11 @@
 </div>
   <div align="center" style="display: inline_block"><br>
 
-  <h1> Formação</h1>
- <p> 🎮 Formado em jogos digitais pela fiap</p>
- 
-<p>
-🥽  pós-graduado em Desenvolvimento de metaverso pela anhembi morumbi</p>
-  <p> 🇺🇸 -- Curso de idioma (Inglês) na União cultural</p>
+  <h1>Professional Qualification</h1>
+<p>🎮 Graduated in digital games from FIAP.</p>
+<p>🥽 Post-graduated in Metaverse Development from Anhembi Morumbi.</p>
+
+<p>🇺🇸 -- English b2</p>
   </div>
  <div align="center" style="display: inline_block"><br>
    <h1> Certifcações</h1>
