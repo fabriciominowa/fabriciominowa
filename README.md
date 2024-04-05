@@ -32,17 +32,53 @@
 
     
 <div align="center" style="display: inline_block"><br>
+  <h1>Liguagens para Front-End</h1>
   <img align="center" alt="fabriciominowa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="fabriciominowa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--   <img align="center" alt="fabriciominowa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+ <img align="center" alt="fabriciominowa-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="fabriciominowa-HTML"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="fabriciominowa-bootstrap"height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img align="center" alt="fabriciominowa-bootstrap" height="70" width="70" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" />
-
   <img align="center" alt="fabriciominowa-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="center" alt="fabriciominowa-Csharp"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+  
+<h1>Frameworks-Front-End</h1>
+   <img align="center" alt="fabriciominowa-bootstrap" height="70" width="70" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" />
+   <img align="center" alt="fabriciominowa-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+   <img align="center" alt="fabriciominowa-bootstrap"height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+   <img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
+   
+<h1>APi Rest / Test</h1>
+<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" />
+
+
+
+          
+          
+
+<h1>Gaming languages</h1>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+          
+          
+<h1>Tool prototype</h1>
+ 
+<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+
+
+
+<h1>Gaming Engines/3d</h1>
+<img align="center" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="center" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
+
+
+<h1>IDE</h1>
+<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
+
+                              
 </div>
 </div>
 
