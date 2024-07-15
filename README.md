@@ -32,7 +32,7 @@
 
     
 <div align="center" style="display: inline_block"><br>
-  <h1>Liguagens para Front-End</h1>
+  <h1>Front-end languages</h1>
   <img align="center" alt="fabriciominowa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="fabriciominowa-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="fabriciominowa-HTML"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
