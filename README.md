@@ -1,15 +1,11 @@
 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c941d9"/>
+
   <div align="left" style="display: inline_block"><br>
 
-  <h1 align="center"> About</h1>
- Hello, I'm Fabricio, a tireless creator of digital experiences and passionate about technology! <br><br>
+ 
 
-💻 With expertise in web development and a focus on front-end, I bring to the table skills in Angular and React, building incredible interfaces that captivate and engage users.
-
-🌐 Additionally, I'm an explorer of the vast horizons of REST APIs, connecting systems and unlocking new possibilities for the web.
-
-🎮 But I don't stop there! My heart beats strongly for the world of gaming and virtual realities. In Unity, with C#, I create magical worlds and immersive experiences that transcend imagination. And in Roblox Studio, I dive into the magic of creation with Lua, building universes where dreams come true.
-🛠️ In the trenches of development, I master continuous integration and deployment tools (CI/CD) like a conductor leading a symphony of code. GitHub Actions is my magic wand, transforming lines of code into digital masterpieces.
+Professional with extensive experience in web development, and interaction design, specializing in immersive and gamified solutions. Dedicated instructor, developing and delivering practical and theoretical courses with a strong commitment to staying updated with technological trends. Passionate about creating engaging and innovative user experiences.
 </div>
 
 
@@ -17,9 +13,10 @@
 
   <h1> STATS</h1>
    <a href="https://github.com/fabriciominowa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&hide_progress=true"/>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&count_private=true&hide_border=true&title_color=9a04f2&icon_color=0015c0&text_color=c941d9&bg_color=0d1117" alt="Fabricio Minowa github stats" />  
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&layout=compact&hide_border=true&title_color=9a04f2&text_color=c941d9&bg_color=0d1117" />
+</div>
 </div>
 
 
@@ -32,29 +29,30 @@
 
     
 <div align="center" style="display: inline_block"><br>
-  <h1>Front-end languages</h1>
-  <img align="center" alt="fabriciominowa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="fabriciominowa-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="fabriciominowa-HTML"height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fabriciominowa-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-<h1>Frameworks-Front-End</h1>
-   <img align="center" alt="fabriciominowa-bootstrap" height="70" width="70" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" />
-   <img align="center" alt="fabriciominowa-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-   <img align="center" alt="fabriciominowa-bootstrap"height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-   <img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
+  <h1>Front-end</h1>
+  <img align="center" alt="fabriciominowa-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000">
+ <img align="center" alt="fabriciominowa-Ts"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+    <img align="center" alt="fabriciominowa-bootstrap"height="40" width="40" src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000" />
+   <img align="center" alt="fabriciominowa-React" height="40" width="40"src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"> 
+   <img align="center" alt="fabriciominowa-bootstrap"height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+   <img  align="center"height="40" width="40" src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" />
+   <img align="center"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
    
+  </div>
+<div align="center" style="display: inline_block">
 <h1>APi Rest / Test</h1>
+
 <img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" />
 
-
+</div>
 
           
-          
+ <div align="center" style="display: inline_block">
+   
 
 <h1>Gaming languages</h1>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -81,9 +79,8 @@
                               
 </div>
 </div>
-
+</div>
 <br><br>
-
 
 
 
