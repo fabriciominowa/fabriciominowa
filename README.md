@@ -10,6 +10,18 @@ Professional with extensive experience in web development, and interaction desig
 
 
   <div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
+
+ 
+
+<p>Instructor at Senai de Informatica👨‍🏫</p>
+<p>Minigame Designer at Astrarium Games 🎮</p>
+
+
+</div>
+
+
+  <div align="center" style="display: inline_block"><br>
 
   <h1> STATS</h1>
    <a href="https://github.com/fabriciominowa">
