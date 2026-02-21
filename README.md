@@ -21,13 +21,6 @@ Professional with extensive experience in web development, and interaction desig
 
   <div align="center" style="display: inline_block"><br>
 
-  <h1> STATS</h1>
-   <a href="https://github.com/fabriciominowa">
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabriciominowa&show_icons=true&count_private=true&hide_border=true&title_color=9a04f2&icon_color=0015c0&text_color=c941d9&bg_color=0d1117" alt="Fabricio Minowa github stats" />  
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciominowa&layout=compact&hide_border=true&title_color=9a04f2&text_color=c941d9&bg_color=0d1117" />
-</div>
-</div>
 
 
 
@@ -76,9 +69,6 @@ Professional with extensive experience in web development, and interaction desig
 
 
 
-<h1>Gaming Engines/3d</h1>
-<img align="center" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="center" height="70" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
 
 
 <h1>IDE</h1>
