@@ -1,117 +1,57 @@
+<p align="left">Hi, I'm Fabricio 👋<br><br>Software Engineer passionate about XR technologies, game development, and cloud computing.<br><br>Founder of DimensionalPlay Studio, focused on creating immersive experiences, digital games, and innovative web solutions.<br><br>⚙️ Technologies I work with:<br>Unity (C#) • Angular • JavaScript • Python • Azure • Google Cloud<br><br>🚀 Interests:<br>XR (VR/AR/MR) • Gamification • Immersive Interfaces • Scalable Systems<br><br>🎓 Education<br>MBA in Software Engineering — University of São Paulo (USP)<br>Postgraduate in Metaverse Development — Anhembi Morumbi University<br>Bachelor’s Degree in Digital Games — Faculdade de Informática e Administração Paulista (FIAP)<br>English proficiency: B2 (Upper-Intermediate)</p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c941d9"/>
+###
 
-  <div align="left" style="display: inline_block"><br>
-
- 
-
-Professional with extensive experience in web development, and interaction design, specializing in immersive and gamified solutions. Dedicated instructor, developing and delivering practical and theoretical courses with a strong commitment to staying updated with technological trends. Passionate about creating engaging and innovative user experiences.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="49" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="49" alt="graphql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="49" alt="nestjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="49" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=angular" height="49" alt="angularjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="49" alt="googlecloud logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=azure" height="49" alt="azure logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=haxe" height="49" alt="haxe logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="49" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sass" height="49" alt="sass logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="49" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=lua" height="49" alt="lua logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/jasmine/8A4182" height="49" alt="jasmine logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="49" alt="insomnia logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="49" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="49" alt="selenium logo"  />
 </div>
 
-
-  <div align="center" style="display: inline_block"><br>
-<div align="left" style="display: inline_block"><br>
-
-
-<p>Minigame Designer at Astrarium Games 🎮</p>
-
-
+<div align="center">
+  <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" height="150"  width="150"/>
+  <img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" height="150"  width="150"/>
 </div>
 
+###
 
-  <div align="center" style="display: inline_block"><br>
-
-
-
-
-
-
-
-
-
-
-    
-<div align="center" style="display: inline_block"><br>
-  
-  <h1>Front-end</h1>
-  <img align="center" alt="fabriciominowa-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000">
- <img align="center" alt="fabriciominowa-Ts"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-    <img align="center" alt="fabriciominowa-bootstrap"height="40" width="40" src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000" />
-   <img align="center" alt="fabriciominowa-React" height="40" width="40"src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"> 
-   <img align="center" alt="fabriciominowa-bootstrap"height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-   <img  align="center"height="40" width="40" src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" />
-   <img align="center"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
-   
-  </div>
-<div align="center" style="display: inline_block">
-<h1>APi Rest / Test</h1>
-
-<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" />
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-          
- <div align="center" style="display: inline_block">
-   
-
-<h1>Gaming languages</h1>
-  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-          
-          
-<h1>Tool prototype</h1>
- 
-<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
-
-
-
-
-
-<h1>IDE</h1>
-<img  align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-
-
-                              
-</div>
-</div>
-</div>
-<br><br>
-
-
-
-
-  <div align="center" style="display: inline_block> <br><br>
-  <a href="https://www.linkedin.com/in/fabr%C3%ADciomoraesminowa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-  
-
- 
-
-</div>
-  <div align="center" style="display: inline_block"><br>
-
-  <h1>Professional Qualification</h1>
-<p>🎮 Graduated in digital games from FIAP.</p>
-<p>🥽 Post-graduated in Metaverse Development from Anhembi Morumbi.</p>
-
-<p>🇺🇸 -- English b2</p>
-  </div>
-
-  
- <div align="center" style="display: inline_block"><br>
-   <h1> certificate</h1>
-  <img alt="Inglês-bootstrap" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"> 
-   <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" /> 
-    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" /> 
-    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" /> 
-    <img   alt="Pos-atom" height="150" wixth="150" src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /> 
-    <img   alt="Pos-atom" height="150" wixth="150" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" /> 
-     
-
-</div>
+###
