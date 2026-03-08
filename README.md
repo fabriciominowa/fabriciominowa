@@ -42,9 +42,24 @@
   <img src="https://skillicons.dev/icons?i=selenium" height="49" alt="selenium logo"  />
 </div>
 
-<div align="center">
-  <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" height="150"  width="150"/>
-  <img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" height="150"  width="150"/>
+###
+###
+###
+###
+
+
+
+
+<div align="left">
+<h1>  Certifications</h1>
+  <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="100"  width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="100"  width="100"/>
 </div>
 
 ###
